@@ -1,2 +1,2 @@
 # VideoSummarization
-In this project video summarization is done to get only the important part of the video
+In this project video summarization is done to get only the informative part of the video content.
